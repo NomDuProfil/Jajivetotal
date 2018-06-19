@@ -13,8 +13,8 @@ Dans le fichier jajivetotal.py :
 ```
 credentials = {
   "USERNAME": ['email1', 
-  			   'email2', 
-  			   'email3'],
+  		'email2', 
+  		'email3'],
 
   "API_KEY": ['email1_key',
               'email2_key', 
