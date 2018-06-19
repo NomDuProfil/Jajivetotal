@@ -4,8 +4,6 @@ import sys, os
 from openpyxl import Workbook
 import dns.resolver
 
-#https://api.passivetotal.org/api/docs/#api-Enrichment-GetV2EnrichmentSubdomains
-
 credentials = {
   "USERNAME": ['email1', 
   		'email2', 
